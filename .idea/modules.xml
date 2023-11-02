@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/riveo_page_curl.iml" filepath="$PROJECT_DIR$/riveo_page_curl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/riveo_page_curl_android.iml" filepath="$PROJECT_DIR$/android/riveo_page_curl_android.iml" />
     </modules>
   </component>
 </project>
